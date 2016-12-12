@@ -7,7 +7,7 @@ Click en el boton *Watch* de este repo y serás notificado cuando un evento sea 
 # Ideas, sugerencias?
 Enviá un PR o creá un issue.
 
-# Porque GitHub?
+# Por qué GitHub?
 Meetup está bueno, pero después de los 50 integrantes (ya los superamos) hay que pagar, este grupo es gratis.
 Vamos a seguir publicando los eventos en el Meetup, pero también aquí.
 
