@@ -15,7 +15,7 @@ Generalmente contamos con algún proyector o TV para para ayudar presentar el te
 Para proponer un tema o si queres dar una charla; [abrí un issue en este repositorio](https://github.com/beerjs/cordoba/issues) con el label `charla`; nosotros te estaremos
 contactando para incluirla en las próximas ediciones.
 
-## Nuestro Canales de comunicación.
+## Canales de comunicación.
 Tenemos un canal de Slack donde hablamos de los próximos eventos; charlas y demás yerbas.
 Sumate al canal en [este link](https://beerjscba.herokuapp.com).
 
