@@ -5,11 +5,11 @@ Organizamos nuestros eventos por [Meetup](https://www.meetup.com/Beer-js-Cordoba
 
 ## Charlas.
 Luego de algunas ediciones obtuvimos feedback de la comunidad y nos propusimos empezar a dar charlas cortas sobre lo que
-cada uno viene usando a diario en nuestros trabajos o actividades.
+cada uno viene usando a diario en su trabajo o actividades.
 Puede ser un FW nuevo que estas probando, una lista de tips sobre alguna tegnología en particular o simplemente comentar algo
 interesante que te sucedió y queres compartirlo con la comunidad JS de Córdoba.
 
-El formato de las charlas es totalmente informales, 15 minutos de duración (aunque algunas se han extendido un poco más); donde el expositor nos presenta un tema y abre el debate.
+El formato de las charlas es totalmente informal, 15 minutos de duración (aunque algunas se han extendido un poco más); donde el expositor nos presenta un tema y abre el debate.
 Generalmente contamos con algún proyector o TV para para ayudar presentar el tema pero no es requisito fundamental tener presentación para dar una charla.
 
 Para proponer un tema o si queres dar una charla; [abrí un issue en este repositorio](https://github.com/beerjs/cordoba/issues) con el label `charla`; nosotros te estaremos
