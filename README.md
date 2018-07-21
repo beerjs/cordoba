@@ -32,3 +32,6 @@ Siempre nos podes encontrar en el [canal de Slack](https://beerjscba.herokuapp.c
 Como parte de un intercambio con [Sticker Mule](https://www.stickermule.com/); tenemos algunos Stickers para regalar entre los presentes.
 A esta altura todavía quedan algunos :)
 Gracias [Justin Dorfman](jdorfman@stickermule.com)!
+
+### Codigo de Conducta
+Usamos el [Código de Conducta](http://es.confcodeofconduct.com/) estandar de facto de la JS Conf.
