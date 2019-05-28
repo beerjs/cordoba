@@ -1,5 +1,5 @@
 ## BeerJS Córdoba, Argentina
-<img src="beerjs.png" align="right" valign="top" ></img>
+<img src="beerjslogo-single-notext-black.png" align="right" valign="top" ></img>
 En Córdoba, AR, hay una gran comunidad de programadores JS, la idea es juntarse el tercer jueves de cada mes en alguna de las empresas locales que nos pueda brindar un entorno relajado, conocerse y conversar.
 Organizamos nuestros eventos por [Meetup](https://www.meetup.com/Beer-js-Cordoba), sumate allí para recibir notificaiones de las próximas ediciones.
 
